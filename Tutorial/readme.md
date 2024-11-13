@@ -19,11 +19,11 @@ Moviendolos vamos a Descomprimirlos, y despues eliminaremos las 2 carpetas por q
 - sudo rm -rf app-web/
 - sudo rm -rf /var/www/html/index.html
 
-  ![Imatge de rprjose](Imagenes/Imagen1.jpeg)
+  ![Imatge](Imagenes/Imagen1.jpeg)
 
 La imagen enseña sobre el OwnCloud, pero seria lo mismo con NextCloud
 
 4- Ahora por ultimo solamente tendriamos que buscar en Google: ¨LocalHost¨ y deberia aparecer esto:
-![Imatge de rprjose](Imagenes/Imagen2.jpeg)
+![Imatge](Imagenes/Imagen2.jpeg)
 
 5- Pondriamos los datos que creamos antes del Usuario y Password, y eso ya seria todo tendriamos instalado uno de los dos Clouds, y siguiendo estos mismos pasos con el otro tambien deberia instalarnos la otra nube.
