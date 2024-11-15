@@ -13,3 +13,6 @@ Primero de todo descargue el archivo comprimido del cloud, y hice estos pasos:
 
 
 Necesitariamos ahora una cuenta de Myql entonces para crear nuestra propia cuenta tenemos que poner un usuario,contraseña,data base etc, para poder crearnos nuestra cuenta para el NextCloud/OwnCloud
+![Imatge](Imagenes/Hice3.jpeg)
+
+# Ya con todos estos pasos hechos ya tendria todo, y asi hice con los 2 Clouds.
